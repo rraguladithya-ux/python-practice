@@ -1,3 +1,0 @@
-Hello, World!
-Welcome to Python Programming.
-This is my first file handling program.
